@@ -6,7 +6,7 @@ subtitle: <a href='#'>Sorbonne Universite (ED433), IReMus (UMR8223)</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>IReMus (UMR8223)</p>
