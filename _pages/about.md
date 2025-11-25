@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Sorbonne Universite (ED433), IReMus (UMR8223)</a>.
 
 profile:
   align: right
